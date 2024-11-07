@@ -35,9 +35,19 @@ vamos para de explicar e fazer
 
 <h1>explicando</h1>
 
+<p>
+para essa imgem(img) usei o img <br>
+para isso vamos replicala
+</p>
+<img src = "https://www.kasandbox.org/programming-images/animals/cat.png">
+<p>
+incriveu <br>
+muito bom
+  agora poemos definir 
+  o tamanho da img
 
-
-
+  para isso vamos usar a tag 
+</p>
 
 
 
